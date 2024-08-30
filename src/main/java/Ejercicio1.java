@@ -17,9 +17,12 @@ public class Ejercicio1 {
     investigue las diferentes formas de lograr la conversión.
     Muestre por pantalla el resultado de las conversiones.*/  
     
-          System.out.println("Modificación en la rama main por parte de la Giuli (la mejor)");
-          Scanner leer = new Scanner(System.in);
-          System.out.println("ingrese un numero entero:");
-          int num = leer.nextInt();
 
+          System.out.println("Modificación en la rama main por parte de la Giuli (la mejor)");
+         
+           System.out.println("Nuevo texto en pantalla");
+           Scanner leer = new Scanner(System.in);
+           System.out.println("ingrese un numero entero:");
+           int num = leer.nextInt();
+       
 }
