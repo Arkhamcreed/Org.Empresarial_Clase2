@@ -17,9 +17,9 @@ public class Ejercicio1 {
     investigue las diferentes formas de lograr la conversión.
     Muestre por pantalla el resultado de las conversiones.*/  
     
-           
-           Scanner leer = new Scanner(System.in);
-           System.out.println("ingrese un numero entero:");
-           int num = leer.nextInt();
-       
+          System.out.println("Modificación en la rama main");
+          Scanner leer = new Scanner(System.in);
+          System.out.println("ingrese un numero entero:");
+          int num = leer.nextInt();
+
 }
